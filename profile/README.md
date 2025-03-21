@@ -6,8 +6,6 @@ CobaltDataNet is a full-stack organization at the intersection of artificial int
 
 - [**ipcolor**](https://github.com/CobaltDataNet/ipcolor) - A colorful iproute2 wrapper that makes network command outputs easier to read and understand. Built with Shell and licensed under MIT.
 
-- [**thedataproxy.com**](https://github.com/CobaltDataNet/thedataproxy.com) - The source code for our data proxy service website. Built with TypeScript and licensed under MIT.
-
 - [**cloud-spaces**](https://github.com/CobaltDataNet/cloud-spaces) - Run VS Code in the browser! A cloud development environment solution for remote coding.
 
 ### About Us
