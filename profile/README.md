@@ -1,7 +1,3 @@
-## Hi there 👋
-
-CobaltDataNet is a full-stack organization at the intersection of artificial intelligence, cloud computing, data engineering, and network solutions. We develop innovative tools and platforms that push the boundaries of what's possible in today's technology landscape.
-
 ### Featured Projects
 
 - [**ipcolor**](https://github.com/CobaltDataNet/ipcolor) - A colorful iproute2 wrapper that makes network command outputs easier to read and understand. Built with Shell and licensed under MIT.
