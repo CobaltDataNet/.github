@@ -13,7 +13,7 @@ CobaltDataNet bridges the gap between cutting-edge AI research and practical imp
 - 🌱 We welcome contributors across all skill levels and backgrounds
 - 🤔 Explore our repositories and find issues that match your interests
 - 💬 Join our community discussions to shape the future of our projects
-- 📫 How to reach us: [Add organization contact method]
+- 📫 How to reach us: mail@cobaltdata.net
 
 ### Tech Stack
 
