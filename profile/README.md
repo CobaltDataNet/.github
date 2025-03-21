@@ -19,7 +19,7 @@ CobaltDataNet bridges the gap between cutting-edge AI research and practical imp
 
 Our diverse technology portfolio includes:
 - Artificial Intelligence & Machine Learning
-- Full-stack web development (TypeScript, React, Node.js)
+- Full-stack web development
 - Cloud infrastructure and containerization
 - Network engineering and optimization
 - Data engineering and analytics
